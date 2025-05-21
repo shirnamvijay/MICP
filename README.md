@@ -67,8 +67,6 @@ streamlit run app.py
 | Decision Tree     | 3195.1 | 6515.1 |
 | XGBoost           | 2567.3 | 4595.6 |
 
-(Replace with your actual evaluation results.)
-
 ---
 
 ## 📁 File Structure
