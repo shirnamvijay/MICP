@@ -35,7 +35,7 @@ Used: [Kaggle - Medical Cost Personal Dataset](https://www.kaggle.com/datasets/m
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone (https://github.com/shirnamvijay/MICP.git)
 cd your-repo-name
 
 ### 2. Install dependencies
@@ -61,11 +61,11 @@ streamlit run app.py
 
 ## 📈 Model Performance
 
-| Model              | MAE    | RMSE   |
+| Model             | MAE    | RMSE   |
 |-------------------|--------|--------|
-| Linear Regression | X.XX   | X.XX   |
-| Decision Tree     | X.XX   | X.XX   |
-| XGBoost           | X.XX   | X.XX   |
+| Linear Regression | 4181.1 | 5796.2 |
+| Decision Tree     | 3195.1 | 6515.1 |
+| XGBoost           | 2567.3 | 4595.6 |
 
 (Replace with your actual evaluation results.)
 
@@ -83,7 +83,7 @@ streamlit run app.py
 
 ## 🙌 Credits
 
-- Developed by [Your Name]
+- Developed by [Vijay Shirnam]
 - Dataset from [Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance)
 
 ---
