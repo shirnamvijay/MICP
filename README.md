@@ -35,7 +35,7 @@ Used: [Kaggle - Medical Cost Personal Dataset](https://www.kaggle.com/datasets/m
 
 ### 1. Clone the repository
 
-git clone (https://github.com/shirnamvijay/MICP.git)
+git clone (https://github.com/shirnamvijay/Medical-Insurance-Cost-Prediction.git)
 cd your-repo-name
 
 ### 2. Install dependencies
